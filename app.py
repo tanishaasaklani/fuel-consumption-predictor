@@ -13,7 +13,7 @@ st.set_page_config(
     layout="centered"
 )
 
-df = pd.read_csv(r"D:\dataset\FuelConsumption.csv")
+df = pd.read_csv(r"FuelConsumption.csv")
 
 X = df[['ENGINESIZE', 'CYLINDERS']]
 y = df[['FUELCONSUMPTION_COMB']]
