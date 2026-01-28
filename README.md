@@ -32,5 +32,5 @@ This project analyzes vehicle data (like engine size and cylinders) to predict f
 The model uses Polynomial Regression to capture non-linear relationships between the independent variables (like Engine Size) and the dependent variable (Fuel Consumption). This approach allows for a more accurate fit compared to simple linear regression when the data shows a curved trend.
 
 ## 📬 Contact
-Created by **Tanishaa Saklani** - MCA AI & DS Student.
+Created by **Tanisha Saklani** - MCA AI & DS Student.
 Open to feedback!
