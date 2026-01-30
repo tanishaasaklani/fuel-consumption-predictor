@@ -1,10 +1,10 @@
-# 🚗 Fuel Consumption Predictor
+# Fuel Consumption Predictor
 
 An interactive web application to predict vehicle fuel consumption based on engine specifications using **Polynomial Regression**.
 
 
 
-## 📋 Project Overview
+## Project Overview
 This project analyzes vehicle data (like engine size and cylinders) to predict fuel efficiency. I used **Polynomial Regression** instead of simple linear regression to better capture the non-linear relationship between engine size and fuel consumption.
 
 ## Tech Stack
@@ -28,7 +28,7 @@ This project analyzes vehicle data (like engine size and cylinders) to predict f
    ```bash
    streamlit run app.py
    
-## 📊 Model Overview
+## Model Overview
 The model uses Polynomial Regression to capture non-linear relationships between the independent variables (like Engine Size) and the dependent variable (Fuel Consumption). This approach allows for a more accurate fit compared to simple linear regression when the data shows a curved trend.
 
 ## 📬 Contact
